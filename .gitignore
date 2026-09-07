@@ -1,0 +1,13 @@
+.superpowers/
+.claude/worktrees/
+.worktrees/
+worktrees/
+.env
+*.db
+*.db-shm
+*.db-wal
+web/node_modules/
+web/dist/
+web/test-results/
+web/playwright-report/
+*.exe

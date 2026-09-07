@@ -1,0 +1,25 @@
+:root {
+  --signal-bg: #0c0e0d;
+  --signal-surface: #111613;
+  --signal-text: #effff1;
+  --signal-muted: #98a895;
+  --signal-lime: #b8ff3d;
+  --signal-coral: #ff6542;
+  --signal-line: #273328;
+  --signal-focus: #eaffb8;
+  --font-sans: 'Inter Tight', 'Arial Narrow', Arial, sans-serif;
+  --font-mono: 'Geist Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+  --content-wide: 1180px;
+  --content-readable: 740px;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --transition-fast: 180ms ease;
+  --transition-standard: 320ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  --motion-duration-signal: 720ms;
+  --motion-duration-scan: 1100ms;
+  --motion-ease-signal: cubic-bezier(0.16, 1, 0.3, 1);
+  --signal-field-opacity: 0.62;
+  --signal-field-blend: screen;
+  --signal-scanline-opacity: 0.08;
+  --signal-trace-duration: 860ms;
+}
